@@ -4,4 +4,4 @@ __pycache__
 .coverage
 junit.xml
 coverage.xml
-.dist
+dist
