@@ -44,4 +44,3 @@ def read(buf):
     while offset < len(buf):
         yield UTmpRecord._make(map(convert_string, STRUCT.unpack_from(buf, offset)))
         offset += STRUCT.size
-
