@@ -39,10 +39,10 @@ JUNIT_XML = True
 # Add here all kinds of additional classifiers as defined under
 # https://pypi.python.org/pypi?%3Aaction=list_classifiers
 CLASSIFIERS = [
+    'Intended Audience :: Developers',
     'Development Status :: 4 - Beta',
     'Programming Language :: Python',
     'Programming Language :: Python :: 3.4',
-    'Programming Language :: Python :: Implementation :: CPython',
     'Operating System :: POSIX :: Linux',
     'License :: OSI Approved :: Apache Software License'
 ]
